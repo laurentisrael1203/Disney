@@ -1,2 +1,3 @@
 gs.log();
 gs.addInfoMessage('test info message for dev');
+gs.addInfoMessage('test info message for dev');
