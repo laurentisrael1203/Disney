@@ -5,7 +5,7 @@ pipeline {
       stage('build') {
          steps {
             snDevOpsStep()
-            echo 'Hello World 11'
+            echo 'Hello World 12'
          }
       }
       stage('test') {
