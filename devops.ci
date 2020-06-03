@@ -11,7 +11,7 @@ pipeline {
       stage('test') {
          steps {
             snDevOpsStep()
-            echo 'Hello World'
+            echo 'Hello World 99'
          }
       }
       stage('deploy') {
